@@ -5,6 +5,7 @@
 > 1단 2렇게 해보조
 
 ## 🖼️ 팀 포스터
+<img width="724" height="1024" alt="poster" src="https://github.com/user-attachments/assets/013145fc-4b10-43b7-888c-cdd74e1d7b3e" />
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
